@@ -10,7 +10,8 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Homer J. Simpson"
+resume_name:                    "재미있그거아"
+
 resume_title:                   "Nuclear Safety Inspector"
 resume_contact_email:
   "homerjsimpson@youremailaddress.com"
